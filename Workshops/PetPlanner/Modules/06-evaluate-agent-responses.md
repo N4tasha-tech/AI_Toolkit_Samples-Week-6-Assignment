@@ -1,4 +1,4 @@
-# 🐕 Module 6: Evaluate Agent Responses
+# 🐕Bonus Module 6: Evaluate Agent Responses
 
 Evaluating responses ensures your agent meets expectations — helpful, playful, and reliable — while handling edge cases gracefully. Your goal is to assess your Pet Planner’s performance.
 

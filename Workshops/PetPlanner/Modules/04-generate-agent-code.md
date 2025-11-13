@@ -18,7 +18,6 @@ Generating agent code allows you to:
 1. For the **SDK** select **Microsoft Agent Framework**.
 1. For the **Programming Language** select **Python**.
 1. Save the file at the root of your project as `pet-planner-agent`.
-1. Before running the script, open a new **terminal** and run the command `az login` to authenticate to Azure. A log-in window will appear. When prompted, select your username and click **Continue**.
 1. Next, in the **terminal**, enter the corresponding number for your subscription.
 1. In the **terminal**, install the **Microsoft Agent Framework (Pre-release)**. To do so, run the command: `uv pip install agent-framework --pre`.
 1. In the **terminal** run the command `python pet-planner-agent.py`.

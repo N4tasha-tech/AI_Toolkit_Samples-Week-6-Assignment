@@ -6,7 +6,7 @@ The model determines how your agent thinks and responds. You’ll choose a model
 
 1. Open a new GitHub Copilot chat window via the **Toggle Chat** icon.
 1. Click the **Set Mode** drop-down and select **Agent**.
-1. Click the **Pick Model** drop-down and select **Claude Sonnet 4.5**.
+1. Click the **Pick Model** drop-down and select **Auto**.
 1. In the chat window, enter the **GitHub Copilot Prompt** provided below and submit.
 1. Review the response from GitHub Copilot. Given the non-deterministic nature of language models, responses will vary.
 1. If GitHub Copilot requests to open the **Model Catalog**, respond with **Yes** OR click the provided button to access the **Model Catalog**. Alternatively, you can open the **AI Toolkit** extension and navigate to **Model Tools > Model Catalog**.
