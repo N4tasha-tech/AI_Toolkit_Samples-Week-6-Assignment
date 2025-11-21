@@ -1,5 +1,8 @@
 # AI Toolkit & Azure AI Foundry Extension Demos
 
+Peer:Evans Macharia
+Email:
+
 The following resources are intended for a presenter to learn and deliver AI Toolkit and Azure AI Foundry extension demos.
 
 ## AI Engineer Scenarios
